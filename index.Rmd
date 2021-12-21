@@ -1,7 +1,15 @@
 ---
 title: "My Website"
-author: "Katherine Taylor"
 output: html_document
 ---
 
 Welcome to my website!!
+
+# Section
+
+```{r test_chunk, cache=TRUE}
+library(ggplot2)
+ggplot(diamonds, aes(x = x, y = y)) +
+  geom_point()
+```
+
