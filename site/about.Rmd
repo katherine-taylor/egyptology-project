@@ -1,0 +1,6 @@
+---
+title: "About me"
+author: "Katherine Taylor"
+---
+
+Hi there! It's me!
