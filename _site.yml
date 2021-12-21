@@ -1,3 +1,5 @@
+# remove files that aren't important 
+
 name: "egyptology-project"
 navbar:
   title: "Modeling Egyptian Hieroglyphs"
