@@ -1,6 +1,7 @@
 ---
 title: "About me"
 author: "Katherine Taylor"
+output: html_document
 ---
 
 Hi there! It's me!
