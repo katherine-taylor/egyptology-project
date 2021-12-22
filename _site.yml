@@ -4,12 +4,12 @@ name: "egyptology-project"
 navbar:
   title: "Modeling Egyptian Hieroglyphs"
   right:
-    - text: "Home"
+    - text: "Background"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user
-      href: about.html
+    - text: "Data Cleaning"
+      icon: fa-images
+      href: data_cleaning.html
 output:
   html_document:
     theme: journal

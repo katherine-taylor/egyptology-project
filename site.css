@@ -30,3 +30,8 @@ h1, h2, h3, h4, h5, h6, legend {
     background-color: #5A7B9C;
     border-color: #eb6864;
 }
+
+a {
+    color: #5A7B9C;
+    text-decoration: none;
+}

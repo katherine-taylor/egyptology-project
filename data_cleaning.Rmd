@@ -1,0 +1,13 @@
+---
+title: "Data Cleaning"
+output: html_document
+---
+
+# Introduction
+The data for this project are in folders labelled by the wall on which the hieroglyphs were found. Each data element is a png image of the hieroglyph, with the first two digits matching the wall number, the next three the number of the hieroglyph on that wall, and then with the sign according to Gardiner's sign list [https://en.wikipedia.org/wiki/Gardiner%27s_sign_list]. To download the data, please visit [https://jvgemert.github.io/pub/index.html].
+
+# Data import
+```{r import}
+# set chunks to eval = FALSE when done 
+```
+
