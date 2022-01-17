@@ -5,3 +5,6 @@ output: html_document
 
 Inspired by the Jodi Picoult novel "The Book of Two Ways" I wanted to do a data science project on Egyptology and epigraphy. The dataset is from a 2013 paper "Automatic Egyptian Hieroglyph Recognition by Retrieving Images as Texts" authored by Morris Franken and Jan C. van Gemert. There are over 4,000 labelled hieroglyphs, photographed at the pyramid of Unas, forming the first section of what is known as the "Pyramid texts". My goal is to build a hieroglyphics classifier using the image data and tidymodels in R.
 
+## Sources
+
+[Original paper](https://jvgemert.github.io/pub/FrankenACMMM13egyptian.pdf)
